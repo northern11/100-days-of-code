@@ -8,3 +8,10 @@
 
 **Link to work:** Not available yet as I am going to figure out surge.sh hosting tomorrow!
 
+### Day 1: January, 22 2019
+
+**Today's Progress**: Added some quotes to the tribute page and the CSS reset
+
+**Thoughts**: It's hard to push everything into an hour when your browser is not responding. However I put some content on the page and got it hosted on surge: success! Tomorrow more content and styling.
+
+**Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
