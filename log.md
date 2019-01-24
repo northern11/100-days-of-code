@@ -15,3 +15,11 @@
 **Thoughts**: It's hard to push everything into an hour when your browser is not responding. However I put some content on the page and got it hosted on surge: success! Tomorrow more content and styling.
 
 **Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
+
+### Day 2: January, 24 2019
+
+**Today's Progress**: Added some content to the tribute page and the CSS styling. I missed a day already...
+
+**Thoughts**: I thought it would be easy to have content to put on the page in a timeline format like the freecodecamp [example](https://codepen.io/freeCodeCamp/full/zNqgVx), but my Tribute subject doesn't have much of timeline. So far the hardest part as been coming up with a layout for the page and content. Most of the historical info I have is in story form and not time stamped too much. I thought maybe of making a cool CSS background of the Brooks Range and making it interactive, but I still need to create the content first.
+
+**Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
