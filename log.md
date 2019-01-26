@@ -31,3 +31,11 @@
 **Thoughts**: This is a late post as I didn't make time to post yesterday, but did work on the tribute page. I incorporated more CSS styling this time and got to play around with CSS Flexbox. It definitely made it easier to center content. I still have to figure out how to display the information about my tribute and to include more information as well. Things are starting to come together though with the tribute page.
 
 **Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
+
+### Day 4: January, 26 2019
+
+**Today's Progress**: I only added more content and did some learning on CSS Grid, which I may want to use instead of Flexbox for some things on this page
+
+**Thoughts**: Today I really only added content and I'm still figuring out how I'm going to style it. Even though it passes the FCC tests I am not satisified with how it looks. Tomorrow I will dress up the lists with a title and put them in column form.
+
+**Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
