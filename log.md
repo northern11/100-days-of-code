@@ -39,3 +39,11 @@
 **Thoughts**: Today I really only added content and I'm still figuring out how I'm going to style it. Even though it passes the FCC tests I am not satisified with how it looks. Tomorrow I will dress up the lists with a title and put them in column form.
 
 **Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
+
+### Day 5: January, 27 2019
+
+**Today's Progress**: I learned more about CSS Grid today from FCC and implemented it in my tribute info on my site.
+
+**Thoughts**: Today I styled my content with Grid, but the text is still not responsive and the page still doesn't pop so I'll attack that again tomorrow.
+
+**Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
