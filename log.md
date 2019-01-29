@@ -47,3 +47,11 @@
 **Thoughts**: Today I styled my content with Grid, but the text is still not responsive and the page still doesn't pop so I'll attack that again tomorrow.
 
 **Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
+
+### Day 6: January, 29 2019
+
+**Today's Progress**: I have learned more about responsive viewport units and using them has helped make my typography more responsive.
+
+**Thoughts**: Today I styled my content with responsive viewport units. The text is responsive, but now it isn't always centered like it should be. Also when I view my page in landscape mode it doesn't expand to fit the page. At the moment I'm stumped on how to fix this.
+
+**Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
