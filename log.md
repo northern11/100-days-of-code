@@ -55,3 +55,11 @@
 **Thoughts**: Today I styled my content with responsive viewport units. The text is responsive, but now it isn't always centered like it should be. Also when I view my page in landscape mode it doesn't expand to fit the page. At the moment I'm stumped on how to fix this.
 
 **Link to work:** [Tribute Page](http://chemical-railway.surge.sh/)
+
+## Day 7: January, 31 2019
+
+**Today's Progress**: Today I spent time learning about forms and their attributes. 
+
+**Thoughts**: I didn't think forms would be so complicated, and I got most of the content I wanted I just need to style it
+
+**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
