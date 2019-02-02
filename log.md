@@ -63,3 +63,12 @@
 **Thoughts**: I didn't think forms would be so complicated, and I got most of the content I wanted I just need to style it
 
 **Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+
+##Day 8: February, 1 2019
+
+**Today's Progress**: Today I spent more time learning about forms and their attributes. 
+
+**Thoughts**: I didn't think forms would be so complicated, I still need to style it more. i thought using flexbox would make it easier.
+
+**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+
