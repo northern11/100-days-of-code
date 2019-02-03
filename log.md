@@ -79,3 +79,11 @@
 **Thoughts**: I didn't realize you could style a form with an unordered list and I found some ideas [here](https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767) that I still need to finish implementing tomorrow. At the  moment I'm trying to get my form to look like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP) and I'm not sure if using an unordered list is the best way, but I'm going to try it out more tomorrow.
 
 **Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+
+## Day 10: February, 3 2019
+
+**Today's Progress**: Today I spent more time trying to style my survey form.
+
+**Thoughts**: I thought styling my form would be easier, but I'm having trouble moving flex items around. I need to get the labels on the left and the inputs/checkboxes/dropdowns on the right. At the moment it is just trial and error and I need to work on targeting items individually. The plan still trying to get my form to look like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP).
+
+**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
