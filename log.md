@@ -62,7 +62,7 @@
 
 **Thoughts**: I didn't think forms would be so complicated, and I got most of the content I wanted I just need to style it
 
-**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+**Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
 
 ## Day 8: February, 1 2019
 
@@ -70,7 +70,7 @@
 
 **Thoughts**: I didn't think forms would be so complicated, I still need to style it more. i thought using flexbox would make it easier.
 
-**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+**Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
 
 ## Day 9: February, 2 2019
 
@@ -78,7 +78,7 @@
 
 **Thoughts**: I didn't realize you could style a form with an unordered list and I found some ideas [here](https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767) that I still need to finish implementing tomorrow. At the  moment I'm trying to get my form to look like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP) and I'm not sure if using an unordered list is the best way, but I'm going to try it out more tomorrow.
 
-**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+**Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
 
 ## Day 10: February, 3 2019
 
@@ -86,7 +86,7 @@
 
 **Thoughts**: I thought styling my form would be easier, but I'm having trouble moving flex items around. I need to get the labels on the left and the inputs/checkboxes/dropdowns on the right. At the moment it is just trial and error and I need to work on targeting items individually. The plan still trying to get my form to look like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
-**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+**Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
 
 ## Day 11: February, 4 2019
 
@@ -94,4 +94,12 @@
 
 **Thoughts**: I didn't think it wouldn't take as much time to style my form properly, but it has been difficult to wrap my head aroudn this. Today I learned that margin is key to centering or moving things where you want because you cannot justify-self with flex, there is only align-self.  I just have to figure out how to move checkboxes/buttons and their labels together and get it aligned. The plan still trying to get my form to look like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
-**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+**Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
+
+## Day 12: February, 5 2019
+
+**Today's Progress**: Today I spent EVEN more time trying to style my survey form...
+
+**Thoughts**: Today I messed around with the margins on my buttons and checkboxes and got the alignment correct, however this breaks responsiveness and I will have to create more breakpoints to make it look good on other devices.  At this point I am considering scraping the flexbox stuff and going back to floats and margins. I will spend one more day fussing around and the most likely scrap. The plan still trying to get my form alignment to look somewhat like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP).
+
+**Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
