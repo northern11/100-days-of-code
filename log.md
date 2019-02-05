@@ -87,3 +87,11 @@
 **Thoughts**: I thought styling my form would be easier, but I'm having trouble moving flex items around. I need to get the labels on the left and the inputs/checkboxes/dropdowns on the right. At the moment it is just trial and error and I need to work on targeting items individually. The plan still trying to get my form to look like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
 **Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
+
+## Day 11: February, 4 2019
+
+**Today's Progress**: Today I spent more time trying to style my survey form.
+
+**Thoughts**: I didn't think it wouldn't take as much time to style my form properly, but it has been difficult to wrap my head aroudn this. Today I learned that margin is key to centering or moving things where you want because you cannot justify-self with flex, there is only align-self.  I just have to figure out how to move checkboxes/buttons and their labels together and get it aligned. The plan still trying to get my form to look like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP).
+
+**Link to work:** [Survey Form Page](http://dissagreeable-quiet.surge.sh)
