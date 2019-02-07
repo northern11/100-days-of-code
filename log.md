@@ -103,3 +103,11 @@
 **Thoughts**: Today I messed around with the margins on my buttons and checkboxes and got the alignment correct, however this breaks responsiveness and I will have to create more breakpoints to make it look good on other devices.  At this point I am considering scraping the flexbox stuff and going back to floats and margins. I will spend one more day fussing around and the most likely scrap. The plan still trying to get my form alignment to look somewhat like the [Free Code Camp one](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
 **Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
+
+## Day 13: February, 7 2019
+
+**Today's Progress**: Today I spent time finishing my survey form and checking it against useablity and speed.
+
+**Thoughts**: I finally finished my survey form and it feels good to be done. The CSS probably needs to be redone as I feel like I hacked it up, but I am going to take a break and move on from this for now. For speed tests I'm using [Page Insights](https://developers.google.com/speed/pagespeed/insights/), for Web Accessibilty I'm use (WAVE)[http://wave.webaim.org/], and I used an (AutoPrefixer)[https://autoprefixer.github.io/] on the CSS. I'm going to keep this process for future projects.
+
+**Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
