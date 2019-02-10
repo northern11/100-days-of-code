@@ -108,6 +108,6 @@
 
 **Today's Progress**: Today I spent time finishing my survey form and checking it against useablity and speed.
 
-**Thoughts**: I finally finished my survey form and it feels good to be done. The CSS probably needs to be redone as I feel like I hacked it up, but I am going to take a break and move on from this for now. For speed tests I'm using [Page Insights](https://developers.google.com/speed/pagespeed/insights/), for Web Accessibilty I'm use (WAVE)[http://wave.webaim.org/], and I used an (AutoPrefixer)[https://autoprefixer.github.io/] on the CSS. I'm going to keep this process for future projects.
+**Thoughts**: I finally finished my survey form and it feels good to be done. The CSS probably needs to be redone as I feel like I hacked it up, but I am going to take a break and move on from this for now. For speed tests I'm using [Page Insights](https://developers.google.com/speed/pagespeed/insights/), for Web Accessibilty I'm use [WAVE](http://wave.webaim.org/), and I used an [AutoPrefixer](https://autoprefixer.github.io/) on the CSS. I'm going to keep this process for future projects.
 
 **Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
