@@ -120,3 +120,11 @@
 **Thoughts**: I'm excited to be done with 2 projects and moving on to the third on just 14 days in, however I have missed a few days. I also need to revisit the Tribute Page project cause it still doesn't look completely right to me. Also I should put it out my current projects for feedback. For this Landing Page I'd like to style it a little better than cloning the [FCC one](https://codepen.io/freeCodeCamp/full/RKRbwL) and instead clone this [page](https://blackrockdigital.github.io/startbootstrap-landing-page/) from the P1xt 3.0 guide.
 
 **Link to work:** [Landing Page](http://automatic-egg.surge.sh)
+
+## Day 15: February, 10 2019
+
+**Today's Progress**: Today I spent time working on my Landing Page project.
+
+**Thoughts**: Instead of not cloning the landing page from [FCC](https://codepen.io/freeCodeCamp/full/RKRbwL) and instead cloning this [page](https://blackrockdigital.github.io/startbootstrap-landing-page/) from the P1xt 3.0 guide I'm going to try and combine them. I'll need to combine them to pass some of the required user stories for FCC.
+
+**Link to work:** [Landing Page](http://automatic-egg.surge.sh)
