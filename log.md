@@ -111,3 +111,12 @@
 **Thoughts**: I finally finished my survey form and it feels good to be done. The CSS probably needs to be redone as I feel like I hacked it up, but I am going to take a break and move on from this for now. For speed tests I'm using [Page Insights](https://developers.google.com/speed/pagespeed/insights/), for Web Accessibilty I'm use [WAVE](http://wave.webaim.org/), and I used an [AutoPrefixer](https://autoprefixer.github.io/) on the CSS. I'm going to keep this process for future projects.
 
 **Link to work:** [Survey Form Page](http://disagreeable-quiet.surge.sh)
+
+
+## Day 14: February, 9 2019
+
+**Today's Progress**: Today I spent some time learning more flex-box with Flexbox Defense and I started my next FCC Responsive Web Project.
+
+**Thoughts**: I'm excited to be done with 2 projects and moving on to the third on just 14 days in, however I have missed a few days. I also need to revisit the Tribute Page project cause it still doesn't look completely right to me. Also I should put it out my current projects for feedback. For this Landing Page I'd like to style it a little better than cloning the [FCC one](https://codepen.io/freeCodeCamp/full/RKRbwL) and instead clone this [page](https://blackrockdigital.github.io/startbootstrap-landing-page/) from the P1xt 3.0 guide.
+
+**Link to work:** [Landing Page](http://automatic-egg.surge.sh)
