@@ -128,3 +128,13 @@
 **Thoughts**: Instead of not cloning the landing page from [FCC](https://codepen.io/freeCodeCamp/full/RKRbwL) and instead cloning this [page](https://blackrockdigital.github.io/startbootstrap-landing-page/) from the P1xt 3.0 guide I'm going to try and combine them. I'll need to combine them to pass some of the required user stories for FCC.
 
 **Link to work:** [Landing Page](http://automatic-egg.surge.sh)
+
+## Day 15: February, 10 2019
+
+**Today's Progress**: Today I spent more time working on my Landing Page project, mostly on styling the nav bar.
+
+**Thoughts**: I took a week off because I didn't make time for this a priority when I had time to put in at least an hour, but I chose to do other things. I also took a weekend vacation to Greenville, SC and that didn't help either. To put in an hour a day I need better discipline and in some cases to sacrifice or create time when there is none. My spouse does not support me taking an hour break on my off time/vacation/non-work days so I have to find a way around that.
+
+**Link to work:** [Landing Page](http://automatic-egg.surge.sh)
+
+
