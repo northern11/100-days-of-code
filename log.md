@@ -129,7 +129,7 @@
 
 **Link to work:** [Landing Page](http://automatic-egg.surge.sh)
 
-## Day 15: February, 10 2019
+## Day 16: February, 10 2019
 
 **Today's Progress**: Today I spent more time working on my Landing Page project, mostly on styling the nav bar.
 
